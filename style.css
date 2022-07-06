@@ -1,0 +1,471 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-part {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 700px;
+    padding-top: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-part h1 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.header-part p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.header-part .link-one {
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    background-image: linear-gradient(green, black);
+    color: white;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+/*-----------------------------header-part-end-------------------------------*/
+
+.section-one {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.section-one .div-one {
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 100px;
+}
+
+.section-one .div-one h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.section-one .div-one p {
+    text-align: center;
+}
+
+/*-----------------------------section-one-end-------------------------------*/
+
+.section-two {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 438px;
+    padding-top: 20px;
+}
+
+.section-two .div-one {
+    background-color: #f9f2f2;
+    padding: 41px 28px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+.section-two .div-one:hover {
+    border: 1px solid black;
+    background-color: #eed4d4;
+    cursor: pointer;
+}
+
+.section-two .div-two {
+    background-color: #f9f2f2;
+    padding: 41px 28px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+.section-two .div-two:hover {
+    border: 1px solid black;
+    background-color: #eed4d4;
+    cursor: pointer;
+}
+
+.section-two .div-three {
+    background-color: #f9f2f2;
+    padding: 41px 28px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+.section-two .div-three:hover {
+    border: 1px solid black;
+    background-color: #eed4d4;
+    cursor: pointer;
+}
+
+.section-two .div-four {
+    background-color: #f9f2f2;
+    padding: 41px 28px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+.section-two .div-four:hover {
+    border: 1px solid black;
+    background-color: #eed4d4;
+    cursor: pointer;
+}
+
+.section-two .div-five {
+    background-color: #f9f2f2;
+    padding: 41px 28px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 120px;
+    border-radius: 7px;
+}
+
+.section-two .div-five:hover {
+    border: 1px solid black;
+    background-color: #eed4d4;
+    cursor: pointer;
+}
+
+/*-----------------------------section-two-end-------------------------------*/
+
+.section-three {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 180px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 28%;
+}
+
+.section-three .div-one p {
+    margin-bottom: 50px;
+    border-bottom: 1px solid #b9b0b0;
+    color: #b9b0b0;
+    padding-bottom: 10px;
+}
+
+.section-three .div-one .link-two {
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    background-image: linear-gradient(green, black);
+    color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/*-----------------------------section-three-end-------------------------------*/
+
+.section-four {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.section-four .div-one h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+/*-----------------------------section-four-end-------------------------------*/
+
+.section-five {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box;
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.section-five .div-one {
+    background-color: #b9b0b0;
+    margin-right: 10px;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-top: 25px;
+}
+
+.section-five .div-one h1 {
+    margin-top: 15px;
+}
+
+.section-five .div-one p {
+    margin-top: 15px;
+}
+
+.section-five .div-two {
+    background-color: #eed4d4;
+    margin-right: 10px;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-top: 25px;
+}
+
+.section-five .div-two h1 {
+    margin-top: 15px;
+}
+
+.section-five .div-two p {
+    margin-top: 15px;
+}
+
+.section-five .div-three {
+    background-color: #b9b0b0;
+    box-sizing: border-box;
+    padding: 15px;
+    padding-top: 25px;
+}
+
+.section-five .div-three h1 {
+    margin-top: 15px;
+}
+
+.section-five .div-three p {
+    margin-top: 15px;
+}
+
+/*-----------------------------section-five-end-------------------------------*/
+
+.section-six {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    display: flex;
+    margin-top: 140px;
+    box-sizing: border-box;
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-six .div-one {
+    width: 40%;
+    padding-left: 5%;
+    padding-top: 100px;
+    box-sizing: border-box;
+
+}
+
+.section-six .div-one h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.section-six .div-one p {
+    margin-bottom: 30px;
+}
+
+.section-six .div-one .link-three {
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    background-image: linear-gradient(green, black);
+    color: white;
+    border-radius: 10px;
+}
+
+.section-six .div-two {
+    width: 40%;
+    padding-left: 5%;
+    box-sizing: border-box;
+}
+
+/*-----------------------------section-six-end-------------------------------*/
+
+.section-seven {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.section-seven .div-one {
+    width: 40%;
+    height: 320px;
+    margin-left: 6%;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px gray;
+    padding: 25px;
+}
+
+.section-seven .div-one img {
+    height: 100px;
+    width: auto;
+    margin-bottom: 15px;
+}
+
+.section-seven .div-one h1 {
+    margin-bottom: 20px;
+}
+
+.section-seven .div-two {
+    width: 40%;
+    height: 320px;
+    margin-left: 8%;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px gray;
+    padding: 25px;
+}
+
+.section-seven .div-two img {
+    height: 100px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.section-seven .div-two h1 {
+    margin-bottom: 20px;
+}
+
+/*-----------------------------section-seven-end-------------------------------*/
+
+.section-eight {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    display: flex;
+    margin-top: 140px;
+    box-sizing: border-box;
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-eight .div-one {
+    width: 40%;
+    box-sizing: border-box;
+}
+
+.section-eight .div-one img {
+    height: 400px;
+    width: 600px;
+    padding-left: 35px;
+}
+
+.section-eight .div-two {
+    width: 40%;
+    padding-left: 10%;
+    padding-top: 50px;
+    box-sizing: border-box;
+
+}
+
+.section-eight .div-two h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.section-eight .div-two p {
+    margin-bottom: 30px;
+}
+
+.section-eight .div-two .link-four {
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    background-image: linear-gradient(green, black);
+    color: white;
+    border-radius: 10px;
+}
+
+/*-----------------------------section-eight-end-------------------------------*/
+
+.section-nine .div-one {
+    font-family: 'Architects Daughter', cursive;
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 100px;
+}
+
+.section-nine .div-one h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.section-nine .div-one p {
+    text-align: center;
+}
+
+/*-----------------------------section-nine-end-------------------------------*/
+
+.section-teen {
+    font-family: 'Architects Daughter', cursive;
+    width: 960px;
+    height: 200px;
+    background-color: #eed6d6;
+    margin-bottom: 50px;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.section-teen .div-one {
+    background-color: #cebaba;
+    padding: 10px;
+    margin-top: 83px;
+    height: 20px;
+    margin-left: 377px;
+    padding-right: 100px;
+}
+
+.section-teen .div-two {
+    background-color: #9c8a8a;
+    padding: 10px;
+    margin-top: 40px;
+    height: 20px;
+    margin-top: 83px;
+}
+
+/*-----------------------------section-teen-end-------------------------------*/
+
+.footer-part {
+    font-family: 'Architects Daughter', cursive;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.footer-part h1 {
+    color: tomato;
+}
