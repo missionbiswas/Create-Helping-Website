@@ -222,7 +222,7 @@
 }
 
 .section-five .div-three {
-    background-color: #b9b0b0;
+    background-color: #f3b6b6;
     box-sizing: border-box;
     padding: 15px;
     padding-top: 25px;
@@ -417,21 +417,21 @@
     display: flex;
 }
 
-.section-teen .div-one {
-    background-color: #cebaba;
-    padding: 10px;
-    margin-top: 83px;
+.section-teen .div-one input {
     height: 20px;
-    margin-left: 350px;
-    padding-right: 150px;
+    width: 80px;
+    margin-top: 83px;
+    margin-left: 316px;
+    padding-bottom: 16px;
+    padding-right: 139px;
 }
 
 .section-teen .div-two {
     background-color: #9c8a8a;
     padding: 10px;
-    margin-top: 40px;
     height: 20px;
     margin-top: 83px;
+    cursor: pointer;
 }
 
 /*-----------------------------section-teen-end-------------------------------*/
